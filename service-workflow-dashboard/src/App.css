@@ -1,0 +1,34 @@
+/* Reset some defaults */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #0b74dd;
+  color: #333;
+  font-size: 16px;
+}
+
+/* Layout adjustments for the full app */
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+/* Ensure the router content takes full height */
+#root {
+  display: flex;
+
+}
+
+/* Optional: Smooth transitions for theme or layout changes */
+body,
+button,
+input {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}

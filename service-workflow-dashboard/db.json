@@ -1,0 +1,176 @@
+{
+  "requests": [
+    {
+      "id": 1,
+      "title": "Fix login issue",
+      "status": "Open",
+      "assignedTo": "John"
+    },
+    {
+      "id": 2,
+      "title": "Update dashboard UI",
+      "status": "Open",
+      "assignedTo": "Emily"
+    },
+    {
+      "id": 3,
+      "title": "Add logout feature",
+      "status": "Open",
+      "assignedTo": "Alice"
+    },
+    {
+      "id": 4,
+      "title": "Fix API bug",
+      "status": "Open",
+      "assignedTo": "Michael"
+    },
+    {
+      "id": 5,
+      "title": "Refactor sidebar",
+      "status": "Open",
+      "assignedTo": "Robert"
+    },
+    {
+      "id": 6,
+      "title": "Enhance security",
+      "status": "Open",
+      "assignedTo": "Sophia"
+    },
+    {
+      "id": 7,
+      "title": "Improve analytics",
+      "status": "Open",
+      "assignedTo": "James"
+    },
+    {
+      "id": 8,
+      "title": "Implement Kanban",
+      "status": "Open",
+      "assignedTo": "Olivia"
+    },
+    {
+      "id": 9,
+      "title": "Add new charts",
+      "status": "Open",
+      "assignedTo": "David"
+    },
+    {
+      "id": 10,
+      "title": "Optimize queries",
+      "status": "Open",
+      "assignedTo": "Emma"
+    },
+    {
+      "id": 11,
+      "title": "Integrate charts",
+      "status": "In Progress",
+      "assignedTo": "Sophia"
+    },
+    {
+      "id": 12,
+      "title": "Fix deployment",
+      "status": "In Progress",
+      "assignedTo": "John"
+    },
+    {
+      "id": 13,
+      "title": "Add authentication",
+      "status": "In Progress",
+      "assignedTo": "Robert"
+    },
+    {
+      "id": 14,
+      "title": "UI responsiveness",
+      "status": "In Progress",
+      "assignedTo": "Michael"
+    },
+    {
+      "id": 15,
+      "title": "Kanban DnD feature",
+      "status": "In Progress",
+      "assignedTo": "David"
+    },
+    {
+      "id": 16,
+      "title": "Fix logout bug",
+      "status": "Resolved",
+      "assignedTo": "Alice"
+    },
+    {
+      "id": 17,
+      "title": "API integration complete",
+      "status": "Resolved",
+      "assignedTo": "Olivia"
+    },
+    {
+      "id": 18,
+      "title": "Analytics data fixed",
+      "status": "Resolved",
+      "assignedTo": "James"
+    },
+    {
+      "id": 19,
+      "title": "Navbar styling updated",
+      "status": "Resolved",
+      "assignedTo": "Emily"
+    },
+    {
+      "id": 20,
+      "title": "Sidebar icons added",
+      "status": "Resolved",
+      "assignedTo": "Emma"
+    },
+    {
+      "id": 21,
+      "title": "Database schema updated",
+      "status": "Resolved",
+      "assignedTo": "Michael"
+    },
+    {
+      "id": 22,
+      "title": "Request form improved",
+      "status": "Resolved",
+      "assignedTo": "Robert"
+    },
+    {
+      "id": 23,
+      "title": "Login validation added",
+      "status": "Resolved",
+      "assignedTo": "Sophia"
+    }
+  ],
+  "analytics": {
+    "labels": [
+      "Open",
+      "In Progress",
+      "Resolved"
+    ],
+    "datasets": [
+      {
+        "label": "Requests",
+        "data": [
+          10,
+          5,
+          8
+        ],
+        "backgroundColor": [
+          "#f44336",
+          "#ff9800",
+          "#4caf50"
+        ]
+      }
+    ]
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "username": "manager",
+      "password": "manager@123"
+    }
+  ]
+}
