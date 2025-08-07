@@ -58,6 +58,7 @@ Frontend runs on http://localhost:5173
 
 🌍 Deployment
 This project is deployed on Netlify.
+🔗 service-workflow.netlify.app
 
 
 
